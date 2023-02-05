@@ -1,0 +1,7 @@
+baseURL = 'http://brucemackenzie.ca/'
+languageCode = 'en-us'
+title = "Bruce MacKenzie's Professional Blog"
+theme = 'PaperMod'
+
+[params]
+ShowShareButtons = true
