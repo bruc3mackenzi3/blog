@@ -1,7 +1,7 @@
 ---
 title: "Debugging a Go Application Inside Docker Using VSCode"
 date: 2023-02-05T10:46:51-05:00
-draft: true
+draft: false
 ---
 The ability to debug is an important tool for a developer to keep in their toolbox.  While it's ideal to debug by running the application natively, there are scenarios where this either isn't possible or the issue must be reproduced in a particular environment.
 
